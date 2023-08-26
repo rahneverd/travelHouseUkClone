@@ -1,0 +1,10 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.header {
+	min-height: 483px;
+	background-color: red;
+	padding: 37px 293px;
+}
